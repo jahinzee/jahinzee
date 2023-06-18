@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm Jahin, and I'm an undergrad student doing things sometimes but mostly doing not much. [Here's my website, it's more actively maintained](https://jahinzee.github.io)
 
 <!--
 **jahinzee/jahinzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
