@@ -1,4 +1,7 @@
-I'm Jahin, and I'm an undergrad student doing things sometimes but mostly doing not much. [Here's my website, it's more actively maintained](https://jahinzee.github.io)
+- Just an average guy with a bachelor's degree who likes to write code.
+- Also likes linguistics, electronic music, and Wikipedia surfing.
+- Currently working on [Rozelle](https://github.com/jahinzee/rozelle), a TUI-based Python code exercise runner.
+- Check out [my website](https://jahinzee.github.io), it's more actively maintained.
 
 <!--
 **jahinzee/jahinzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
