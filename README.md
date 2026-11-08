@@ -1,6 +1,7 @@
 (・_・)
 
-- My [Codeberg] – some projects live here.
+- My [Codeberg] – some projects live here:
+  - [Coolabah]: Generate and assemble file trees using Python generators. ([PyPI][Coolabah-pypi])
 - My website, [jahinzee.net] – home of my other shenanigans.
   - The canonical [link tree] and [contact] pages.
   - The [Garden], where longer writings go.
@@ -8,6 +9,8 @@
 
 
 [Codeberg]: https://codeberg.org/jahinzee
+[Coolabah]: https://codeberg.org/jahinzee/coolabah
+[Coolabah-pypi]: https://pypi.org/project/coolabah
 [jahinzee.net]: https://jahinzee.net
 [link tree]: https://jahinzee.net/links
 [contact]: https://jahinzee.net/contact
